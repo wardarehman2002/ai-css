@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="clothing-store.css">
 /* ============================================
    CLOTHING STORE —  CSS
    ============================================ */
